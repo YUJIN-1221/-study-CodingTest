@@ -15,10 +15,4 @@ def solution(priorities, location):
                 return ans                
             else:
                 loc -= 1
-    
-    
-    
-    
-    
-    answer = 0
-    return answer
+    return ans
