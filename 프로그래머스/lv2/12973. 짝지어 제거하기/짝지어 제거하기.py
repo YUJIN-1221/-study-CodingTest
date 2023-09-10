@@ -1,5 +1,4 @@
 def solution(s):
-    
     stack = []
     for i in range(len(s)):
         if stack == []:
